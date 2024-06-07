@@ -1,4 +1,5 @@
 # Multi-threaded Banking System
+![bank-illustration](https://github.com/naiemofficial/Multi-threaded-Banking-System/assets/34242279/0ffba560-76c1-48b4-a7ae-5da5a442c751)
 
 
 ### About this project
