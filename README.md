@@ -10,7 +10,7 @@ The project is about a simple and basic banking system. In this project, the ban
     <li>Updating account details</li>
     <li>Delete account</li>
     <li>Depositing money</li>
-    <li>Tansfer money</li>
+    <li>Transfer money</li>
     <li>Withdraw money</li>
     <li>Checking balance</li>
     <li>Transactions history</li>
